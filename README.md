@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything related to language models.
 - 📫 How to reach me heyitsmesamir144@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am constant state of pain
+- ⚡ Fun fact: I am in constant state of pain
 
 <!---
 heyitsmesamir/heyitsmesamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
